@@ -10,6 +10,7 @@ int main()
         if(n%i==0) // n is divisible by i
         {
             cout<<n<<" is not prime\n";
+            return 0;
         }
     }
 
