@@ -1,0 +1,76 @@
+Syllabus--
+
+
+*Number Theory
+	
+	. Divisibility and division algorithm
+	. Greatest common divisor
+	. Euclidian algorithm and Extended euclidian algorithm
+	. Least common multiple
+	. Primality test
+	. Sieve of Eretosthenes
+	. Prime factorization
+	. Prime factorization using sieve
+	. Number of divisor
+	. Binary exponentiation
+	. Matrix exponentiation
+	. Calculating nth element of reccurence relation using matrix
+	. Modular arithmatic
+	. Modular multiplicative inverse
+	. Residue system and Euler's totient function
+	. Linear congruence
+	. Linear diophantine equation
+	. Theorems of Fermat,Euler,Wilson
+
+
+*Two pointer
+
+*Binary Search
+
+*Graph
+
+	. Breadth first search
+	. Depth first search
+	. Finding connected component
+	. Finding Bridge
+	. Finding Articulation point
+	. Strongly connected component
+	. Dijkstra algorithm
+	. Bellman-Ford algorithm
+	. Floyad-Warshall algorithm
+	. Minimum spanning tree
+	. Prim's algorithm, kruskal algorithm
+	. Find cycle
+	. Lowest common ancestor
+	. Bipartite graph check
+
+
+*Data Structure
+	
+	. Disjoint set union
+	. Fenwick tree
+	. Sparse table
+	. Trie tree
+	. Segment tree
+	. Segment tree with lazy propagation
+
+
+*Combinatorics
+	
+	. Binomial coefficient
+	. Catalan number
+	. Inclusion exclusion principle
+	. Stars and bars
+
+
+*String Processing
+	
+	. String hashing
+	. String matching
+	. Knuth Morris Pratt algorithm
+	. Z function
+	. Suffix array
+
+*Dynamic Programming
+
+*Basic Geometry
