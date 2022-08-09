@@ -7,10 +7,11 @@ vector<int> primes;
 void Sieve(){
     for (int i = 2 ; i<N ; i+=2) fact[i] = 2 ;
     primes.push_back(2);
-    for (int i = 3 ; i<N ; i+=2){
+    for (long long i = 3 ; i<N ; i+=2){
         if(fact[i]!=0)continue;
         primes.push_back(i);
-        for (int j = i ; j<N ; j+=i){
+        fact[i]=i;
+        for (long long j = i*i ; j<N ; j+=i){
             if (fact[j] == 0) fact[j] = i ;
         }
     }
