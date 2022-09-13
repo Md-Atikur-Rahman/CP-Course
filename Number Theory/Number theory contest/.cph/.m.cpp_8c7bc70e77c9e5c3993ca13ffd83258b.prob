@@ -1,0 +1,1 @@
+{"name":"Local: m","url":"e:\\cpp\\CP-Course\\Number Theory\\Number theory contest\\m.cpp","tests":[{"id":1660213448620,"input":"3\n100000 100000\n12 24\n747794 238336","output":"36\n6\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cpp\\CP-Course\\Number Theory\\Number theory contest\\m.cpp","group":"local","local":true}
